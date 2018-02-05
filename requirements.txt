@@ -1,2 +1,6 @@
+flask
 Flask-SQLAlchemy
-psycopg2
+nose.tools
+requests
+json
+unittest
